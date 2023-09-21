@@ -1,3 +1,3 @@
 # text_to_speach
 
-![](https://github.com/KonstantinLeschenko/text_to_speach/blob/main/lib/123456.excalidraw)
+![Image alt](https://github.com/KonstantinLeschenko/text_to_speach/blob/main/lib/Безымянный-2023-09-20-2206.png)
