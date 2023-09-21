@@ -1,3 +1,3 @@
 # text_to_speach
 
-![](./123456.excalidraw)
+![](.lib/123456.excalidraw)
